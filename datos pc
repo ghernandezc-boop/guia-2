@@ -1,0 +1,12 @@
+cpu: intel core i9400F
+gpu: geforce rtx msi 3060 ventus x2 12gb 
+ram: 16gb
+almacenamiento: 240gb SSD-1tb HDD
+windows 10 
+Versión de Python: 3.15.2
+Versión numpy: 2.5.4
+Versión pandas: 3.1.1
+Versión dask: 2026.8.0
+Versión matplotlib: 3.11.2
+Versión seaborn: 0.13.2
+Versión psutil: 7.2.2
